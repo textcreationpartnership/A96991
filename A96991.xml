@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech spoken by Sir William Wylde Knight &amp; baronet, one of his Majesties serjeants at law, (and recorder of the City of London.) To his most sacred Majesty Charles the Second: in his passage from the Tovver to White-hall. April 22. 1661. Being the day before his coronation.</title>
+            <author>Wilde, William, Sir, 1611?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96991</idno>
+            <idno type="STC">Wing W3769A</idno>
+            <idno type="STC">Thomason E1088_4</idno>
+            <idno type="STC">ESTC R204078</idno>
+            <idno type="EEBO-CITATION">99863783</idno>
+            <idno type="PROQUEST">99863783</idno>
+            <idno type="VID">115998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115998)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech spoken by Sir William Wylde Knight &amp; baronet, one of his Majesties serjeants at law, (and recorder of the City of London.) To his most sacred Majesty Charles the Second: in his passage from the Tovver to White-hall. April 22. 1661. Being the day before his coronation.</title>
+                  <author>Wilde, William, Sir, 1611?-1679.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid for Edward Powell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115998:1" rendition="simple:additions"/>
+            <p>THE SPEECH SPOKEN By Sir <hi>WILLIAM WYLDE</hi> Knight &amp; Baronet, One of His MAJESTIES Serjeants at Law, (And <hi>Recorder</hi> of the City of LONDON.) TO His Moſt Sacred MAJESTY CHARLES THE SECOND: <hi>In His Paſſage from the</hi> TOVVER <hi>to</hi> WHITE-HALL. <hi>April</hi> 22. 1661.</p>
+            <p>Being the Day before His CORONATION.</p>
+            <p>
+               <add>Aprill 12</add> 
+               <hi>LONDON,</hi> Printed by <hi>William Godbid</hi> for <hi>Edward Powell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:115998:2"/>
+            <pb n="3" facs="tcp:115998:2"/>
+            <opener>
+               <salute>Moſt gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O declare the Happineſſe of Your People in the Enjoy<g ref="char:EOLhyphen"/>ment of this glorious Day, is a Subject for an <hi>Angel,</hi> not a <hi>Man.</hi>
+            </p>
+            <p>It is not long ſince, <hi>Moſt Mighty Prince,</hi> But yet 'twas long Sir, that for want of Your Royal Preſence, Your People were miſerably intangled in, and infeſted with, many Sad and Deſtructive Revolutions; ſuch, that thereby ſo Vio<g ref="char:EOLhyphen"/>lent a Sea of Confuſion and Diſorder, was broke in upon them, that their Lives, Li<g ref="char:EOLhyphen"/>berties, Eſtates, and that which is moſt dear to all Good Men, their very Religion, (the beſt Reform'd throughout the <hi>World)</hi> were ready to have been ſwallowed up.</p>
+            <pb n="4" facs="tcp:115998:3"/>
+            <p>But no ſooner did Your Glorious Perſon appear amongſt them, but thoſe Furious Waters did abate, and that Black Cloud of Miſery, and Calamity from thence exhaled, and ready to fall upon them, was diſpers'd and gone, and they, in a full Careere to their Priſtine Glory and Happineſs.</p>
+            <p>And now by this time, <hi>Moſt Puiſſant King,</hi> I make no Queſtion but all Your People, I am ſure Your Loyal Ones, and I have Charity enough, to hope they will all prove ſuch, are fully ſatisfi'd, that be<g ref="char:EOLhyphen"/>cauſe it was in <hi>England,</hi> as ſometimes 'twas in <hi>Iſrael,</hi> that they had no <hi>King</hi> amongſt them, therefore their latter dayes were ſo Calamitous; <hi>Quod tot tanta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mala conciliarat non habuiſſe Regem.</hi>
+            </p>
+            <p>But to the Everlaſting Praiſe of our good God, we have now not only a King amongſt us, but ſuch a King which is a Bleſſing to His People, not of a Muſhroom Deſcent, but the Son of Nobles, of a moſt Royal Stemme, not intituled to His Kingdomes by Perjury, and Villany, but by an Ancient and Undoubted Right, A KING of
+<pb n="5" facs="tcp:115998:3"/> whom it may be truly ſaid, that had all that <hi>Clemency, Goodneſſe,</hi> and <hi>Sweetneſſe</hi> of <hi>Tem<g ref="char:EOLhyphen"/>per</hi> proper to a <hi>Prince,</hi> and advantagious to a People, been totally loſt, they are all reunited, and concentred in His Royal Perſon.</p>
+            <p>And therefore; as I ſaid at firſt, of our Happineſſe, give me leave <hi>Moſt Illuſtrious Prince,</hi> to ſay alſo of our Joys, their Decla<g ref="char:EOLhyphen"/>ration is an Angelical Employment, Matter in truth, rather of Admiration, than for Expreſſion. <hi>Exigua gaudia loquuntur ingentia ſtupent:</hi> Only let me ſay this, and I hope I may ſay it with a Pious Alluſion,</p>
+            <p>
+               <hi>This is the Day which the Lord hath made, we will Rejoyce and be Glad in it.</hi>
+            </p>
+            <p>And that Our Joyes may not be ſhort liv'd, Your Happineſſe and Our Joyes being like <hi>Hypocrates</hi> his Twins, muſt live, and Dye together.</p>
+            <p>May Your Days be many, Your Reign ever peaceful and proſperous, and Your poſterity Numerous; May Your Feet be always upon the Neck of Your Enemies;
+<pb n="6" facs="tcp:115998:4"/> Let them be ever bleſs'd which ſhall bleſſe you, and Curſed be they which ſhall Curſe You; and let all your people ſay <hi>Amen.</hi>
+            </p>
+            <p>I know well <hi>Moſt Mighty King,</hi> that neither the Time nor the Place, will admit of any long Diſcourſe; and that I now ſpeak not only to a <hi>Solon</hi> but a <hi>Solomon;</hi> One that is no Friend to many words, as well knowing, <hi>in multiloquio non deeſt Peccatum;</hi> And therefore be pleas'd to give your Servant leave in a Word to deliver his Errand, which is, in the Name of this Ancient and renowned City, moſt Cordially to Congratulate your Gracious Acceſſion hither this Day, upon this ſolemn and glorious Occaſion, and as a pure ſig<g ref="char:EOLhyphen"/>nal of that true Allegiance, and duty, which they owe to your Sacred Majeſty, humbly to preſent unto your Royal Hands this Purſe of Gold; which let me aſſure You comes from Free Hearts, full of <hi>Loyalty</hi> and <hi>Fidelity,</hi> the beſt of <hi>Preſents</hi> to a Gracious King; and therefore I am con<g ref="char:EOLhyphen"/>fident, that as they offer it cheerfully, your Majeſty will vouchſafe to accept it Graci<g ref="char:EOLhyphen"/>ouſly.
+<pb n="7" facs="tcp:115998:4"/> I have done <hi>Sir,</hi> and have no more to ſay but this,</p>
+            <closer>God Save the <hi>KING.</hi>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
